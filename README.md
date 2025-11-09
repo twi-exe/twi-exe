@@ -1,4 +1,5 @@
-# **```twi.exe```**
+![header](./src/gh-header.png)
+
 ```
 > build: unstable  
 > mood: pending  
@@ -6,6 +7,7 @@
 ```
 > `system booted. personality modules: dry humor, clean syntax, and suspiciously human code.`
 
+# twi-exe
 **system logs:**
 - performs tasks involving **data science**, **C++**, and **Python**  
 - attempting to contribute to open source (source currently fighting back)  
